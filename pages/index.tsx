@@ -14,6 +14,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
+        <h1>All of us our DUMB !!!!!</h1>
         <ul>
           <li>
             <Link href="/home">
